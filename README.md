@@ -1,2 +1,6 @@
-# CS255
-System Analysis and Design
+The DriverPass project involved creating a system to help students prepare for their driving tests by offering online practice exams and scheduling behind‑the‑wheel training. The client is a small driving‑school business represented by the owner, Liam, along with support from the secretary and the IT officer. They needed a system that could manage user accounts, schedule lessons, provide online practice tests, track training packages, process payments, generate reports, and stay updated with DMV requirements. The goal was to build a platform that improved the student learning experience, supported instructors in managing lessons, and streamlined the daily operations of the business.
+
+I beleive I did a good job keeping things clear and easy to understand. I showed that I understand how the DriverPass system works, and I was able to explain it in simple language. I like the various charts that I created and that they are fiarly simple to read and understand. I beleive I stayed on point and created a good overall project.
+
+A part of my work that would be worth revising would be the presentation portion. I could use some introduction and closing statements along with smoother transitions. There are also a few explanations that could be made clearer by tightening the wording and focusing more directly on the main point. 
+
